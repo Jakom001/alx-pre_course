@@ -1,1 +1,2 @@
-My sub-folder readme in this directory
+My new task is here.
+So far so good
